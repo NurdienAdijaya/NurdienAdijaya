@@ -54,7 +54,7 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/nurdienadijaya"><img src="https://img.shields.io/badge/-nurdien%20adijaya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nurdienadijaya" target="_blank"><img src="https://img.shields.io/badge/-nurdien%20adijaya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nurdienadijaya@gmail.com"><img src="https://img.shields.io/badge/-nurdienadijaya@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/nurdienadijaya"><img src="https://img.shields.io/badge/-@nurdienadijaya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/nurdienadijaya"><img src="https://img.shields.io/badge/-@nurdienadijaya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
