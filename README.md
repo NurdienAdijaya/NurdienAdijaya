@@ -24,8 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=material-ui)&nbsp;
-
-![Material UI](https://img.shields.io/badge/materialui-05122A?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=material-ui)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
