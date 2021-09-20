@@ -10,7 +10,7 @@
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at nurdienadijaya@gmail.com! I'll try to respond as soon as I can.\
 
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/nurdienadijaya/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiik3oBCYabpZ9qBx-I34XJ_kET8WcY9gg,1635469753456)/) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Coding" src="https://raw.githubusercontent.com/NurdienAdijaya/NurdienAdijaya/main/assets/Coding.gif" align="center"/>
 
@@ -45,7 +45,8 @@
 
 <p align="center">
 <a href="https://github.com/NurdienAdijaya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NurdienAdijaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NurdienAdijaya&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NurdienAdijaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NurdienAdijaya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
