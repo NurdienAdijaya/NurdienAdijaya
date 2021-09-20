@@ -12,7 +12,7 @@
 
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Coding" src="https://raw.githubusercontent.com/NurdienAdijaya/NurdienAdijaya/main/assets/Coding.gif" align="right"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/NurdienAdijaya/NurdienAdijaya/main/assets/Coding.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
